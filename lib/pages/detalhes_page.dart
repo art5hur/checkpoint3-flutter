@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'linguagem.dart';
+import '../linguagem.dart';
 
 class DetalhesPage extends StatelessWidget {
   final Linguagem linguagem;
@@ -36,7 +36,6 @@ class DetalhesPage extends StatelessWidget {
             Image.network(
               linguagem.grafico,
               width: 500,
-              //height: 100,
             ),
           ],
         ),
