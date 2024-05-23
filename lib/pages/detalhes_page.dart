@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../linguagem.dart';
+import '../model/linguagem.dart';
 
 class DetalhesPage extends StatelessWidget {
   final Linguagem linguagem;

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:linguagens_programacao/pages/detalhes_page.dart';
-import 'package:linguagens_programacao/linguagem.dart';
+import 'package:linguagens_programacao/model/linguagem.dart';
 
 class FirstPage extends StatefulWidget {
   const FirstPage({super.key});
