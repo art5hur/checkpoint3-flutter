@@ -49,9 +49,9 @@ class _FirstPage extends State<FirstPage> {
     Linguagem(
       nome: 'Cobol',
       descricao:
-          'COBOL (sigla de COmmon Business Oriented Language) - Linguagem Comum Orientada para os Negócios é uma linguagem de programação orientada para o processamento de banco de dados comerciais. Veja abaixo o ranking com as linguagens de programação mais populares em 2023:',
+          'COBOL (sigla de COmmon Business Oriented Language) - Linguagem Comum Orientada para os Negócios é uma linguagem de programação orientada para o processamento de banco de dados comerciais. Segundo a edição de maio de 2024 do índice Tiobe, o COBOL aparece em 20° no ranking considerando as linguagens mais populares pesquisadas em websites na internet. Sua presença no ranking está mais relacionada a aplicações legadas que precisam de manutenção.',
       icone: 'images/cobol.png',
-      grafico: 'images/grafico.png',
+      grafico: 'images/cobolgrafico.png',
     ),
   ];
 
